@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    height: 100px;
+    background-color: #C8B889;
+    display: flex;
+    justify-content: center;
+    
+}
+.parte1{
+   width: 100%;
+   display: flex;
+   justify-content: space-around;
+   align-items: space;
+   margin-right: 100px;
+   gap: 40px;
+   margin: 40px;
+}
+.center{
+    height: 100px;
+    
+}
+.parte2{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+}
